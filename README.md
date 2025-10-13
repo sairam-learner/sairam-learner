@@ -70,9 +70,10 @@ Tech: Java, JSP, Servlets, MySQL
 > Raspberry Pi Pico W based automation with sensors and alerts  
 Tech: Python, Bluetooth, Firebase
 
-###📊 Insurance Data Analytics Project
-Data analytics workflow for insurance datasets to analyze policyholders, premiums, and claims.
-Tech: PySpark, Jupyter Notebook, Python
+###📊 **Insurance Data Analytics Project**  
+>PySpark-based workflow for analyzing insurance datasets (policyholders, premiums, claims).  
+**Tech:** PySpark, Jupyter Notebook, Python
+
 
 ---
 
